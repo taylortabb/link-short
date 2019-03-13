@@ -41,6 +41,7 @@ function shorturl(){
     var longurl = geturl();
     genhash();
     send_request(longurl);
+    simplecopy(window.location.href);
 }
 
 var hashh = window.location.hash.substr(1)
