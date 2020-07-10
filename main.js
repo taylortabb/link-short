@@ -1,4 +1,4 @@
-var endpoint = "https://www.jsonstore.io/55bf606550e91ad0dbed9258e523013e1781804795bd07db9d71ec05b3a04939"
+var endpoint = "https://jsonbase.com/shortlinks234i8ghwfy48oeg7w9t3notsecure/sigep"
 
 function getrandom() {
     var text = "";
